@@ -35,7 +35,6 @@ int main() {
 }
 
 
-
 // Problem
 // James visits a restaurant, looks at the menu, and realizes that there is no price on it. Since he wanted to know the prices before he orders, he looked up the restaurant online and found 
 //  different versions of the menu. He knew from experience that usually the menu which has the maximum number of items that have the maximum price on that item between the menus is the most updated one and if there are multiple menus with that condition the one with the maximum average price is the most updated one. Help him find the most updated menu.
